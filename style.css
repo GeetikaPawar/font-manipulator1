@@ -1,0 +1,28 @@
+.heading{
+    font-size: 23px;
+    width:100%;
+    margin:0;
+    box-shadow: 5px 5px 5px plum;
+    background-color:pink;
+   }
+
+ .textsize{
+     color: black;
+ }  
+
+ .copy_footer{
+    position:fixed;
+    color:palevioletred;
+    background-color: paleturquoise;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    font-size: medium;
+}
+
+canvas{
+    border:5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #f2c4ed;
+}
